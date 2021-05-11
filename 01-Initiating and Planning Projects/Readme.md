@@ -36,15 +36,6 @@ This course can be applied to multiple Specializations or Professional Certifica
 * Planning
 * Project Planning
 
-# Readings
-In this course, each module will recommend readings correlating with the module content that will enrich your learning experience. These readings are optional. All the resources required to complete this Specialization are included. Please find the optional textbooks below:
-- The Fast Forward MBA In Project Management 5th edition, by Eric Verzuh - ISBN 978-1119-08657-4
-- A Guide to the Project Management Body of Knowledge  (PMBOK® Guide) – 6th Edition Exercises  
-
-# Exercises
-Each module will recommend a learning exercise that you can complete in order to practically apply what you have learned in the course.
-
-
 # Instructor
 Margaret Meloni, MBA, PMP<br>
 Instructor, University of California, Irvine<br>
