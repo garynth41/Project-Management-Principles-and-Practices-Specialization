@@ -34,7 +34,7 @@ _ Identify project risks and define responses for those risks
 # Instructor
 Margaret Meloni, MBA, PMP<br>
 Instructor, University of California, Irvine <br>
-Division of Continuing Education
+Division of Continuing Education 
 
 
 # University of California, Irvine
