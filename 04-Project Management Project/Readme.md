@@ -9,13 +9,13 @@ The goal is for you to use what you have learned in the previous courses and to 
 Instructions on how to conduct peer reviews will be included in the course.  Upon completing this series, you will be able to (1) write a narrative charter statement, (2) create a work breakdown structure, (3) sequence project activities,(4) build a project schedule, (5) create a project budget, (6) create a responsibility assignment matrix, (7) identify project risks and (8) define responses for those risks.
 
 Upon completing this course, you will be able to:
-- Write a narrative charter statement
-- Create a work breakdown structure
-- Sequence project activities
-- Build a project schedule
-- Create a project budget
-- Create a responsibility assignment matrix
-- Identify project risks and define responses for those risks
+_ Write a narrative charter statement
+_ Create a work breakdown structure
+_ Sequence project activities
+_ Build a project schedule
+_ Create a project budget
+_ Create a responsibility assignment matrix
+_ Identify project risks and define responses for those risks
 
 
 # WHAT YOU WILL LEARN
@@ -35,6 +35,7 @@ Upon completing this course, you will be able to:
 Margaret Meloni, MBA, PMP<br>
 Instructor, University of California, Irvine <br>
 Division of Continuing Education
+
 
 # University of California, Irvine
 Since 1965, the University of California, Irvine has combined the strengths of a major research university with the bounty of an incomparable Southern California location. UCI’s unyielding commitment to rigorous academics, cutting-edge research, and leadership and character development makes the campus a driving force for innovation and discovery that serves our local, national and global communities in many ways.
