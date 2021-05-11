@@ -41,15 +41,3 @@ Division of Continuing Education
 
 # University of California, Irvine
 Since 1965, the University of California, Irvine has combined the strengths of a major research university with the bounty of an incomparable Southern California location. UCI’s unyielding commitment to rigorous academics, cutting-edge research, and leadership and character development makes the campus a driving force for innovation and discovery that serves our local, national and global communities in many ways.
-
-
-
-
-
-
-
-
-
-
-
-
